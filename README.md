@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Musique Free Installer** — Musique is a free, open-source music player for Windows, macOS, and Linux with a focus on artist and album browsing through a visually appealing interface. Works without internet access, no account required. Full offline installation.
+**💻 Musique Free Installer** — Musique is a lightweight, elegant music player for Windows, macOS, and Linux with a focus on simplicity. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Musique
 
-Musique is a free, open-source music player for Windows, macOS, and Linux with a focus on artist and album browsing through a visually appealing interface. Navigate your music library through artist photos and album art grids rather than flat lists. Musique's visual approach to library navigation provides a more aesthetic browsing experience for music collections with complete artwork metadata.
+Musique is a lightweight, elegant music player for Windows, macOS, and Linux with a focus on simplicity. It features an artist photo browsing interface, YouTube integration, Last.fm scrobbling, and a clean full-screen mode optimized for touchscreens.
 
 ---
 
 ## ❌ Problem: Musique is hard to access
 
-- **Metadata Dependent** — Best experience requires complete and accurate music metadata
-- **Feature Set** — Basic playback features without advanced library management
-- **Streaming Integration** — No modern music streaming service support
-- **Development Pace** — Update frequency moderate for community open-source project
+- **Limited Advanced Features** — Missing equalizer, DSP, and advanced playlist features
+- **Development Stalled** — Project has not received significant updates in several years
+- **Small Community** — Limited support resources and documentation
+- **YouTube Breaks** — YouTube integration requires frequent fixes as APIs change
 
 ---
 
@@ -121,7 +121,7 @@ Musique is a free, open-source music player for Windows, macOS, and Linux with a
 
 ---
 
-**Musique Free Installer** — Musique is a free, open-source music player for Windows, macOS, and Linux with a focus on artist and album browsing through a visually appealing interface. Install without internet connection today!
+**Musique Free Installer** — Musique is a lightweight, elegant music player for Windows, macOS, and Linux with a focus on simplicity. Install without internet connection today!
 
 <div align="center">
 
